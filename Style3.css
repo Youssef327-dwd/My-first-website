@@ -1,0 +1,14 @@
+#Europe{
+    color: rgba(215, 36, 36, 0.888);
+}
+.Germany{
+    color: rgb(110, 82, 9);
+}
+*{
+    text-align: center;
+    background-color: rgb(228, 182, 166);
+}
+h2, h3{
+    font-family: monospace;
+    font-size: larger;
+}

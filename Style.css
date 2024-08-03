@@ -1,0 +1,20 @@
+h1{
+    color: rgb(231, 102, 102);
+}
+#Egypt{
+    color: rgb(168, 16, 16);
+}
+.Cairo{
+    color: rgb(248, 107, 107);
+}
+.Alexandria{
+    color: rgb(57, 83, 90);
+}
+*{
+    text-align: center;
+    background-color: rgb(228, 182, 166);
+}
+h2, h3{
+    font-family: monospace;
+    font-size: larger;
+}
